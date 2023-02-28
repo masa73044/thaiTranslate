@@ -13,6 +13,7 @@ body {
   padding: 0 10px;
   min-height: 100vh;
   background: #5372f0;
+  background-image: url(minion.jpg);
 }
 .container {
   max-width: 690px;
